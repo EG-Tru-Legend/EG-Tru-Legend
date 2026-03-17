@@ -13,17 +13,16 @@ Building production systems @ Merlin Entertainments · First Class CS Graduate
 
 ## 🚀 About me
 
-Currently working as an **Operations Controller** at Chessington World of Adventures, where I build and ship production software used daily across the resort.
-
-- 🗓️ Built a **Smart Break Scheduler** (Node.js / React) — cut a 60-min manual process to under 5 mins, live across 3 operational zones
-- 📊 Built **Power BI dashboards** for NPS & guest analytics across 18 Merlin resort locations
-- ⚡ Built a **Power Apps operational hub** centralising duty management for front-line teams
+- 💼 Operations Controller & Software Engineer at **Chessington World of Adventures** (Merlin Entertainments)
 - 🎓 **First Class BSc Computer Science** — Kingston University, 2025
+- 💬 Ask me about **Node.js, React, SQL, Power BI, or building operational tools**
 - 🥋 Junior black belt in Wing Chun Kung Fu
+- ⚡ Fun fact: Platinum trophies should be accepted on CVs as professional experience
+- 📫 Reach me: **eesagurling@gmail.com**
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Technologies & tools
 
 **Languages**
 
@@ -32,12 +31,14 @@ Currently working as an **Operations Controller** at Chessington World of Advent
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 **Backend & Data**
 
@@ -46,22 +47,62 @@ Currently working as an **Operations Controller** at Chessington World of Advent
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Tools**
+**Tools & Cloud**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub stats
+## 🌟 Featured projects
+
+### 🗓️ Smart Break Scheduler
+`Node.js` `React` `Excel` `Operational Systems`
+
+Built at Chessington World of Adventures — an automated scheduling tool that replaced a 30-60 minute manual process with a system that generates full break cover plans in under 5 minutes. Live in daily use across three operational zones (Nexus, Phantom, Odyssey), handling staff skills, shift patterns, and zone coverage automatically.
+
+---
+
+### 📊 Guest Experience Analytics Platform
+`SQL Server` `Power BI` `Python` `Yext API`
+
+Built for Merlin Entertainments Group — complex SQL queries surfacing device usage trends, NPS analysis, and anomalous behaviour across 18 resort locations. Includes automated detection logic for fair sampling policy breaches and a Power BI dashboard suite used by senior stakeholders. Automated data pipelines via CSV processing and Yext API integration.
+
+---
+
+### ⚡ Operational Hub (Power Apps)
+`Power Apps` `Power Automate` `Microsoft 365`
+
+A mobile-friendly operational hub for duty managers at Chessington, centralising daily checks, safety inspections, shutdown reports, and links to key tools into a single interface. Reduced the need to navigate multiple separate systems during high-pressure operational periods.
+
+---
+
+### 📚 Personal Book Manager
+`Kotlin` `Jetpack Compose` `Room` `Android`
+
+An Android app for tracking reading lists and progress, built with Jetpack Compose and Material 3. Features local-first persistence with Room, search/filter/sort, reading progress tracking by percentage or page, and Android share sheet integration.
+
+---
+
+### 🌐 CSE Connect Platform
+`React` `Node.js` `Express` `MySQL` `Mapbox` `JWT`
+
+Full-stack web platform built during a summer internship — React frontend with Mapbox-based activity discovery, JWT authentication, and protected routing. Node.js/Express REST API backend with MySQL persistence, Joi validation, and bcrypt password hashing.
+
+---
+
+## 📊 My stats
 
 <div align="center">
 
 ![Eesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EG-Tru-Legend&show_icons=true&theme=dark&hide_border=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EG-Tru-Legend&layout=compact&theme=dark&hide_border=true)
+
+![GitHub streak](https://streak-stats.demolab.com?user=EG-Tru-Legend&theme=dark&hide_border=true)
 
 </div>
 
