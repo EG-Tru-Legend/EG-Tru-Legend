@@ -5,7 +5,7 @@
 **Software Engineer & Data Analyst**
 Building production systems @ Merlin Entertainments · First Class CS Graduate
 
-![Profile views](https://komarev.com/ghpvc/?username=EG-Tru-Legend&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=EGExcelsior&color=blue&style=flat)
 
 </div>
 
@@ -17,7 +17,7 @@ Building production systems @ Merlin Entertainments · First Class CS Graduate
 - 🎓 **First Class BSc Computer Science** — Kingston University, 2025
 - 💬 Ask me about **Node.js, React, SQL, Power BI, or building operational tools**
 - 🥋 Junior black belt in Wing Chun Kung Fu
-- ⚡ Fun fact: Platinum trophies should be accepted on CVs as professional experience
+- ⚡ Fun fact: 💎 Platinum trophies should be accepted on CVs as professional experience (38 and counting)
 - 📫 Reach me: **eesagurling@gmail.com**
 
 ---
@@ -45,15 +45,21 @@ Building production systems @ Merlin Entertainments · First Class CS Graduate
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat&logo=oracle&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Tools & Cloud**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -98,11 +104,11 @@ Full-stack web platform built during a summer internship — React frontend with
 
 <div align="center">
 
-![Eesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EG-Tru-Legend&show_icons=true&theme=dark&hide_border=true)
+![Eesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EGExcelsior&show_icons=true&theme=dark&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EG-Tru-Legend&layout=compact&theme=dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EGExcelsior&layout=compact&theme=dark&hide_border=true)
 
-![GitHub streak](https://streak-stats.demolab.com?user=EG-Tru-Legend&theme=dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=EGExcelsior&theme=dark&hide_border=true)
 
 </div>
 
