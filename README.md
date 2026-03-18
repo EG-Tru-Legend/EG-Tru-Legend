@@ -32,6 +32,8 @@ Building production systems @ Merlin Entertainments · First Class CS Graduate
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 **Frontend**
 
@@ -104,6 +106,20 @@ An Android app for tracking reading lists and progress, built with Jetpack Compo
 `React` `Node.js` `Express` `MySQL` `Mapbox` `JWT`
 
 Full-stack web platform built as a final year project — React frontend with Mapbox-based activity discovery, JWT authentication, and protected routing. Node.js/Express REST API backend with MySQL persistence, Joi validation, and bcrypt password hashing.
+
+---
+
+### 🧀 No Cheese For The Wicked
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+A full-stack e-commerce application for an online cheese shop, built using PHP 8 with an MVC architecture and MySQL via PDO. Supports customer browsing, session-based basket, account creation, checkout, and order tracking — plus admin features for managing the catalogue. Built at Kingston University.
+
+---
+
+### 🧟 Shoot Out
+`C#` `.NET Framework` `Windows Forms`
+
+My first ever independent coding project — a Windows Forms zombie shoot-out game built in C#. Features multiple levels, bullet collision logic, a start menu, and a game over screen.
 
 ---
 
